@@ -1,0 +1,9 @@
+Label	Cell Type
+type_0	T cell
+type_1	endothelial cell
+type_2	fibroblast
+type_3	macrophage
+type_4	malignant cell
+type_5	mast cell
+type_6	mature NK T cell
+type_7	plasma cell
